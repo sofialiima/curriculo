@@ -1,0 +1,15 @@
+#teste{ 
+    color: blue;
+}
+
+#cabecalho{
+    font-style: italic;
+}
+
+*{
+    background-color: rgb(176, 167, 233);
+}
+
+hr{
+    border-color: rgb(189, 186, 186);
+}
