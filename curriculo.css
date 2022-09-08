@@ -7,9 +7,13 @@
 }
 
 *{
-    background-color: rgb(176, 167, 233);
+    background-color: rgb(201, 196, 230);
 }
 
 hr{
     border-color: rgb(189, 186, 186);
+}
+
+a:link{
+    color: black;
 }
